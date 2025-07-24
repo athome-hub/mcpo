@@ -1,5 +1,9 @@
 # ⚡️ mcpo
 
+> [!INFO]  
+> This fork was created from version `v0.0.16`  
+> It adds `bun` to the base image as it's needed for this [outline-mcp-server](https://github.com/mmmeff/outline-mcp-server)  
+
 Expose any MCP tool as an OpenAPI-compatible HTTP server—instantly.
 
 mcpo is a dead-simple proxy that takes an MCP server command and makes it accessible via standard RESTful OpenAPI, so your tools "just work" with LLM agents and apps expecting OpenAPI servers.
