@@ -1,6 +1,6 @@
 # ⚡️ mcpo
 
-> [!INFO]  
+> [!NOTE]  
 > This fork was created from version `v0.0.16`  
 > It adds `bun` to the base image as it's needed for this [outline-mcp-server](https://github.com/mmmeff/outline-mcp-server)  
 
